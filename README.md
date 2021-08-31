@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/76010661?s=400&u=b6e607ac743ac63cb2543e975d4e94e49c78d02c&v=4" width=200>
 </div>
 
-This is a Discord AI Chatbot that uses the [Microsoft DialoGPT conversational model](https://huggingface.co/microsoft/DialoGPT-medium) fine-tuned on the game transcript of [The World Ends With You](https://en.wikipedia.org/wiki/The_World_Ends_with_You) (TWEWY). Read [tutorial on freeCodeCamp](https://www.freecodecamp.org/news/discord-ai-chatbot/).
+This is a Discord AI Chatbot that uses the [Microsoft DialoGPT conversational model](https://huggingface.co/microsoft/DialoGPT-medium) fine-tuned on the game transcript of [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty). Read [tutorial on freeCodeCamp](https://www.freecodecamp.org/news/discord-ai-chatbot/).
 
 I trained the model using the lines of my favorite quirky character, Rick Sanchez (left in the image below). He has about 577 lines in total in the entire season 1 of rick and morty.
 
