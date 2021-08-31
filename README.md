@@ -22,13 +22,3 @@ You can also directly chat with the model hosted on [Hugging Face's Model Hub](h
 
 - `model_train_upload_workflow.ipyb`: Notebook to be run in Google Colab to train and upload the model to Hugging Face's Model Hub
 - `discord_bot.py`: Script to be imported into a Repl.it Python Discord.py project
-- `discord_bot.js`: Script to be imported into a Repl.it JavaScript Discord.js project
-
-## Resource Links
-
-- [15-min chat demo](https://youtu.be/-n6uWu8PZzo)
-- [My tutorial on freeCodeCamp](https://www.freecodecamp.org/news/discord-ai-chatbot/)
-- [My video tutorial on YouTube](https://youtu.be/UBwvFuTC1ZE)
-- [My JavaScript version of this tutorial on YouTube](https://youtu.be/XR6JFRLxe5A)
-- [My TWEWY dataset on Kaggle](https://www.kaggle.com/ruolinzheng/twewy-game-script)
-- [My Hugging Face Model](https://huggingface.co/r3dhummingbird/DialoGPT-medium-joshua)
