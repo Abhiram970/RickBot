@@ -8,7 +8,7 @@ This is a Discord AI Chatbot that uses the [Microsoft DialoGPT conversational mo
 
 I trained the model using the lines of my favorite quirky character, Rick Sanchez (left in the image below). He has about 577 lines in total in the entire season 1 of rick and morty.
 
-<img src="https://github.com/RuolinZheng08/twewy-discord-chatbot/blob/main/gif-demo/gameplay.png" width=400><br>
+<img src="https://www.nme.com/wp-content/uploads/2020/04/rick-and-morty-season-4-696x443.jpg" width=400><br>
 
 Here is a demo of the Discord bot in action.
 
