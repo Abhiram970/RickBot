@@ -66,7 +66,7 @@ class MyClient(discord.Client):
         # or has timed out
         if not bot_response:
             if 'error' in response:
-                bot_response = '`Error: {}`'.format(response['error'])
+                bot_response = "Just wait!!!"
             else:
                 bot_response = 'Hmm... something is not right.'
 
