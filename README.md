@@ -1,4 +1,4 @@
-# Build a Discord AI Chatbot that Speaks like Your Favorite Character!
+# Discord AI Chatbot that Speaks like Your Favorite Character!
 
 This is a Discord AI Chatbot that uses the [Microsoft DialoGPT conversational model](https://huggingface.co/microsoft/DialoGPT-medium) fine-tuned on the game transcript of [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty). Read [tutorial on freeCodeCamp](https://www.freecodecamp.org/news/discord-ai-chatbot/).
 
@@ -8,18 +8,6 @@ I trained the model using the lines of my favorite quirky character, Rick Sanche
 <img src="https://www.nme.com/wp-content/uploads/2020/04/rick-and-morty-season-4-696x443.jpg" width=400 ><br>
 </div>
 
-Here is a demo of the Discord bot in action.
-
-<div align="center">
-<img src="https://github.com/RuolinZheng08/twewy-discord-chatbot/blob/main/gif-demo/discord.gif" width=500><br>
-</div>
-
-You can also directly chat with the model hosted on [Hugging Face's Model Hub](https://huggingface.co/r3dhummingbird/DialoGPT-medium-joshua).
-
-
-<div align="center">
-<img src="https://github.com/RuolinZheng08/twewy-discord-chatbot/blob/main/gif-demo/huggingface.gif" width=400><br>
-</div>
 
 ## Structure of this Project
 
